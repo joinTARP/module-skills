@@ -1,0 +1,12 @@
+<section class="character">
+  <h2>{{name}}</h2>
+  {{#if description}}<p class="summary">{{description}}</p>{{/if}}
+  <p>生命值 {{values.hp}} / {{values.max_hp}}</p>
+  <meter min="0" max="{{values.max_hp}}" value="{{values.hp}}"></meter>
+  {{#if values.effects.length}}
+    <section class="effects">
+      <h3>状态效果</h3>
+      <ul>{{#each values.effects}}<li>{{this}}</li>{{/each}}</ul>
+    </section>
+  {{/if}}
+</section>

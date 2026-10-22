@@ -1,0 +1,25 @@
+{
+  "name": "村口出发",
+  "description": "原创的最小模组起点，包含预设角色、地点与世界状态。",
+  "pages": ["概览.md"],
+  "host": {
+    "name": "向导"
+  },
+  "gameStarts": [
+    {
+      "id": "start",
+      "name": "村口集合",
+      "characterTypeIds": ["角色"],
+      "playablePaths": ["角色/旅人.角色"],
+      "allowCreate": false,
+      "opening": {
+        "mode": "scripted",
+        "beats": [
+          {
+            "text": "晨雾渐散，你站在村口的路牌前。今天的行程，由你的选择开始。"
+          }
+        ]
+      }
+    }
+  ]
+}

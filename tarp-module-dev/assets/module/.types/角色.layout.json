@@ -1,0 +1,12 @@
+{
+  "detail": {
+    "type": "handlebars",
+    "templateFile": ".types/角色.hbs",
+    "styleFile": ".types/角色.css"
+  },
+  "sheet": {
+    "type": "handlebars",
+    "templateFile": ".types/角色.hbs",
+    "styleFile": ".types/角色.css"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "冒险者",
+  "designation": "character",
+  "fields": {
+    "hp": {
+      "type": "number",
+      "label": "生命值",
+      "required": true,
+      "mutable": true
+    },
+    "max_hp": {
+      "type": "number",
+      "label": "生命上限",
+      "required": true
+    },
+    "effects": {
+      "type": "list",
+      "label": "状态效果",
+      "mutable": true,
+      "item": {
+        "type": "text"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "detail": {
+    "type": "grid",
+    "fields": ["location", "goal"]
+  },
+  "sheet": {
+    "type": "handlebars",
+    "template": "<p>当前位置：{{values.location}}</p><p>当前目标：{{values.goal}}</p>"
+  }
+}

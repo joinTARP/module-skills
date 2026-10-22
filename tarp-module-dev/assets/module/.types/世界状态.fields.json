@@ -1,0 +1,20 @@
+{
+  "designation": "world_state",
+  "fields": {
+    "location": {
+      "type": "reference",
+      "label": "当前位置",
+      "targets": [
+        "地点"
+      ],
+      "required": true,
+      "mutable": true
+    },
+    "goal": {
+      "type": "text",
+      "label": "当前目标",
+      "required": true,
+      "mutable": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "gmSecret": {
+      "type": "text",
+      "label": "主持资料",
+      "visibility": "gm"
+    },
+    "exits": {
+      "type": "list",
+      "label": "相邻地点",
+      "item": {
+        "type": "reference",
+        "targets": ["地点"]
+      }
+    }
+  }
+}

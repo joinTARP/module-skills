@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "sourceDirectory": "website/src/content/docs",
+  "documents": [
+    {
+      "source": "src/content/docs/getting-started/first-adventure.md",
+      "output": "getting-started/first-adventure.md",
+      "sha256": "d06aac94ca68a59a8f4cec49a338fcadaba9e715a68f23e992d15fea5bc282e2"
+    },
+    {
+      "source": "src/content/docs/getting-started/game-defaults.md",
+      "output": "getting-started/game-defaults.md",
+      "sha256": "507310cafa61e9db1076288ab4f8d6eb4b5410811c9b2f5bffdac21af78a4265"
+    },
+    {
+      "source": "src/content/docs/getting-started/introduction.md",
+      "output": "getting-started/introduction.md",
+      "sha256": "68c02661f68b95cfd04fde469060d5790a391ce88eb877d92f27c95983e5711a"
+    },
+    {
+      "source": "src/content/docs/getting-started/models.md",
+      "output": "getting-started/models.md",
+      "sha256": "7187a3bd49016f86b44dab4194c1d1640ba2a1576ea83b6fc6e6329d48937863"
+    },
+    {
+      "source": "src/content/docs/modules/character-creation.md",
+      "output": "modules/character-creation.md",
+      "sha256": "2036b8eb8d446bf82a9d02f80bdbc482b475ade78dbb37bcb41427ddb707bf7b"
+    },
+    {
+      "source": "src/content/docs/modules/cli.md",
+      "output": "modules/cli.md",
+      "sha256": "a12fb4cf534289034c5e0cdfa23b5691abd84104d4721816cb9360063f1bdcc1"
+    },
+    {
+      "source": "src/content/docs/modules/compute.md",
+      "output": "modules/compute.md",
+      "sha256": "ddbc12bb111bea56877203322e3019ba3bc18820edfd1c8b4d28617ce521db1a"
+    },
+    {
+      "source": "src/content/docs/modules/design.md",
+      "output": "modules/design.md",
+      "sha256": "5be1b44b8196e1ea8769e163ee80ddcde54d3369d7fa3b344d1c497d95f16574"
+    },
+    {
+      "source": "src/content/docs/modules/doc-types.md",
+      "output": "modules/doc-types.md",
+      "sha256": "a8250f31c26513f5a71bb5800abf257eadcb0af3e64eb1c964ede7b73cbfae32"
+    },
+    {
+      "source": "src/content/docs/modules/field-modeling.md",
+      "output": "modules/field-modeling.md",
+      "sha256": "7793258c2ce8d2942d1b98404cc9b1f2150ff77f8408c74da8a791ef7b552d8a"
+    },
+    {
+      "source": "src/content/docs/modules/game-starts.md",
+      "output": "modules/game-starts.md",
+      "sha256": "4a03a91d54c533f7448ed4d18a87473678412b2f6635c44b21345a1b8e82a1c0"
+    },
+    {
+      "source": "src/content/docs/modules/images.md",
+      "output": "modules/images.md",
+      "sha256": "abf723c6f8c53b447d03b4a1f6c7bf692d408b3d6210b9351a9872445c62c5b5"
+    },
+    {
+      "source": "src/content/docs/modules/layout.md",
+      "output": "modules/layout.md",
+      "sha256": "acdc8287714afee40348e2bec314f20869f4d49479d4fabf3fe5dbe9467b52ab"
+    },
+    {
+      "source": "src/content/docs/modules/mcp-playtest.md",
+      "output": "modules/mcp-playtest.md",
+      "sha256": "715db700864dd0896130061b8c8dd9574a0e922890223c5af34ee4569bb95ce6"
+    },
+    {
+      "source": "src/content/docs/modules/publishing.md",
+      "output": "modules/publishing.md",
+      "sha256": "0a6dc4e04e78689271b4f42a478af9fbbd3fa194a2c46aec3d5f0d6ad0467243"
+    },
+    {
+      "source": "src/content/docs/modules/state.md",
+      "output": "modules/state.md",
+      "sha256": "b77c5fc6cb4683b8dfad1e05611d6b6b037aa809378e68d41d91fea06f94c624"
+    },
+    {
+      "source": "src/content/docs/modules/structure.md",
+      "output": "modules/structure.md",
+      "sha256": "cae64a3724b64fd0e836f4bd907157c863d1024c2be0a6e0d9650e28b279f39c"
+    },
+    {
+      "source": "src/content/docs/modules/voice.md",
+      "output": "modules/voice.md",
+      "sha256": "8dd68dadc09e73636baaecf2f5a95492a11701be15036c225d25fca044f446cf"
+    },
+    {
+      "source": "src/content/docs/play/ai-host.md",
+      "output": "play/ai-host.md",
+      "sha256": "adeb51fa14eb30e517a19af0311f89715e308e86c2581f853d15e9752fc0453f"
+    },
+    {
+      "source": "src/content/docs/play/companions.md",
+      "output": "play/companions.md",
+      "sha256": "3d5ad67429a5fc7b488873d7e114feae5d4216c8f8bd26b39d5bf4e08a6f35a1"
+    },
+    {
+      "source": "src/content/docs/play/dice.md",
+      "output": "play/dice.md",
+      "sha256": "ecffa3a326980ea3e47092dc4be6ac086b76176fd2b8541b0a74c51cb5070c55"
+    },
+    {
+      "source": "src/content/docs/play/notes.md",
+      "output": "play/notes.md",
+      "sha256": "44202e590ede14eff364effca8878b15a56ccdc39adc99480eb520f7b758ef96"
+    },
+    {
+      "source": "src/content/docs/play/state.md",
+      "output": "play/state.md",
+      "sha256": "f8ceca67d2b7d48d4e61b5d958bd5c3669b4ab7d6a308c6cd339d24276f5fd2b"
+    },
+    {
+      "source": "src/content/docs/play/voice.md",
+      "output": "play/voice.md",
+      "sha256": "ce53a33020b90f2c6a3a9c2773a0bad46a13c33f1a77a17a2fd23d5f88facc05"
+    },
+    {
+      "source": "src/content/docs/reference/faq.md",
+      "output": "reference/faq.md",
+      "sha256": "00fce3849e12a6bd77fec92d162683c4d1a03badd733e7b451c86f01b0aa3536"
+    }
+  ]
+}
